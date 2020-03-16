@@ -1,3 +1,3 @@
 # SumanNursery
 
-It is a flower plant info website
+It is a informative website
